@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap');
 
 * {
     margin: 0;
@@ -169,12 +169,12 @@
 
     .weather-temp{
         
-        font-size: 80px;
+        font-size: 70px;
         
     }
 
     .weather-location{
-        font-size: 50px;
+        font-size: 40px;
 
     }
 
@@ -188,6 +188,15 @@
 
     .element{
         justify-content: center;
+    }
+
+    .data{
+        font-size: 22px;
+        font-weight:400 ;
+    }
+
+    .icon{
+        margin-top: 5px;
     }
 
      
